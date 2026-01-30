@@ -18,8 +18,3 @@ Durante este projeto, foram aplicados os seguintes conceitos:
 * **Git**: Para controle de versão local.
 * **GitHub**: Para hospedagem e gerenciamento do código na nuvem.
 * **Markdown**: Para documentação e formatação do projeto.
-
-## 💻 Como utilizar este repositório
-1. Clone o projeto:
-   ```bash
-   git clone [https://github.com/seu-usuario/nome-do-seu-repositorio.git](https://github.com/seu-usuario/nome-do-seu-repositorio.git)
